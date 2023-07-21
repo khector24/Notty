@@ -79,4 +79,4 @@ If you have any questions or suggestions, feel free to contact the project owner
 
 - Name: Kenny Hector
 - GitHub: [khector24](https://github.com/khector24)
-- Email: [your-email@example.com]
+- Email: [kennyhector24@gmail.com]
