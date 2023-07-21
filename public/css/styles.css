@@ -1,0 +1,145 @@
+/* Sections */
+.orange-section {
+  background-color: #ff8441;
+  color: #fff;
+}
+
+.blue-section {
+  background-color: #41b6ff;
+  color: #fff;
+}
+
+/* Navigation Bar */
+.navbar .navbar-brand {
+  color: #fff;
+  font-size: 25px;
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+
+.navbar .nav-item .nav-link {
+  color: #fff;
+}
+.nav-item .nav-link:hover {
+  color: #fff;
+  text-decoration: underline;
+}
+.nav-item {
+  padding: 0 12px;
+}
+
+.nav-link {
+  font-size: 1.1rem;
+  font-weight: 400;
+}
+
+/* Title Section */
+#title .container-fluid {
+  padding: 5% 7% 7%;
+}
+
+#title .container-fluid h1{
+  font-size: 9rem;
+  text-decoration: underline;
+  color: #007bff;
+}
+
+#title .container-fluid h1:hover{
+  color: #41b6ff;
+}
+
+#title .container-fluid p{
+  font-size: 2rem;
+  margin-top: 55px;
+}
+
+/* Social Media Section */
+#social-media .container-fluid{
+  text-align: center;
+  padding: 5% 7%;
+}
+
+.socials a .btn-link{
+  color: #fff;
+}
+
+.fa-youtube:hover {
+  color: #ff0000;
+}
+
+.fa-tiktok:hover {
+  color: #EE1D52;
+}
+
+.fa-twitter:hover {
+  color: #00acee;
+}
+
+.fa-instagram:hover {
+  color: #E1306C;
+}
+
+.fa-facebook-f:hover {
+  color: #3b5998;
+}
+
+/* Featured Videos */
+.row .col-lg-6{
+  padding: 0 0 30px;
+}
+
+.row .youtube-video{
+  padding: 0 60px;
+}
+
+.featured-videos-title h1{
+  text-align: center;
+  padding: 0 0 5% 0;
+}
+
+#featured-videos{
+  padding: 3% 0;
+}
+
+/* Favorite Videos */
+.row .col-lg-6{
+  padding: 0 0 30px;
+}
+
+.row .youtube-video{
+  padding: 0 60px;
+}
+
+.favorite-videos-title h1{
+  text-align: center;
+  padding: 0 0 5% 0;
+}
+
+#favorite-videos{
+  padding: 3% 0;
+}
+
+/* Footer */
+.social-footer{
+  background: #41b6ff;
+  color: #fff;
+  text-align: center;
+  padding: 30px 0;
+}
+
+.social-footer .copyright{
+  margin-bottom: 0;
+}
+
+.social-footer .btn-link{
+  color: #fff;
+}
+
+.social-footer .btn{
+  padding: 0;
+}
+
+.social-footer p{
+  padding-top: 20px;
+}
